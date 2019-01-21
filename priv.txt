@@ -1,1 +1,2 @@
 printf("Priv");
+printf("Bye");

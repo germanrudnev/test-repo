@@ -1,2 +1,5 @@
 printf("Welcome");
 printf("How are you");
+printf("How are you");
+printf("Fuck you");
+printf("Fuck you");

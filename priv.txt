@@ -1,5 +1,5 @@
-printf("Priv");
-printf("Bye");
-printf("Sleep");
-printf("Hello");
-printf("Hallo");
+printf("Priv")
+printf("Bye")
+printf("Sleep")
+printf("Hello")
+printf("Hallo")
